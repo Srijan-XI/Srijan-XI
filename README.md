@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijan Kumar</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/srijan_sah_11" target="blank"><img src="https://img.shields.io/twitter/follow/srijan_sah_11?logo=twitter&style=for-the-badge" alt="srijan_sah_11" /></a> </p>
 

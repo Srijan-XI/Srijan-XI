@@ -1,3 +1,4 @@
+<h3 align="center">|| श्री गणेशाय नमः || </h3>
 <h1 align="center">Hi 👋, I'm Srijan Kumar</h1>
 <h3 align="center">A passionate Developer from India</h3>
 

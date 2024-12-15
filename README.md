@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/srijan1110](https://github.com/srijan1110)
 
-- 📝 I regularly write articles on [New and Upcoming technology](New and Upcoming technology)
+- 📝 I regularly write articles on [New and Upcoming technology]
 
 - 💬 Ask me about **C++,DSA**
 

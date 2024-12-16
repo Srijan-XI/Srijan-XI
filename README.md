@@ -51,5 +51,6 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![World Map](https://raw.githubusercontent.com/antfu/visitmap/main/assets/screenshot.svg)
 
 

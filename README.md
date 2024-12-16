@@ -1,5 +1,5 @@
 <h3 align="center">|| श्री गणेशाय नमः || </h3>
-<h1 align="center">Hi 👋, I'm Srijan </h1> 
+<h1 align="center">Hi 👋, I'm Srijan Kumar </h1> 
 <h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/srijan_sah_11" target="blank"><img src="https://img.shields.io/twitter/follow/srijan_sah_11?logo=twitter&style=for-the-badge" alt="srijan_sah_11" /></a> </p>
@@ -39,5 +39,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijan1110&show_icons=true&locale=en&layout=compact" alt="srijan1110" /></p>
 
-![GitHub Snake Animation](https://github.com/srijan1110/srijan1110/blob/output/dist/snake.svg)
+
 

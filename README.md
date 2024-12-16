@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I don't know what i M**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/srijan1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srijan1110" height="30" width="40" /></a>
 <a href="https://twitter.com/srijan_sah_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srijan_sah_11" height="30" width="40" /></a>

@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Project C++](https://github.com/srijan1110/Project-C-plus) And [Data-Structures-and-Algorithms](https://github.com/srijan1110/Data-Structures-and-Algorithms.git)
 
-- 🌱 I’m currently learning **C++,HTML,CSS,JS**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **AI and Machine Learning**
 

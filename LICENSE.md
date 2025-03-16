@@ -26,11 +26,6 @@ copies of the Software, under the following conditions:
 💥 The authors are **not responsible** for any claims, damages, or liabilities.  
   
 ---
-
-📌 **How to Use This License**  
-1️⃣ **Save** this file as **`LICENSE`** in the root of your GitHub repo.  
-2️⃣ **Commit and push** the file to your repository.  
-
 🔗 Learn more about the MIT License:  
 📄 [opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
 

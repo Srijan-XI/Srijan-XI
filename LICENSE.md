@@ -1,32 +1,21 @@
-# 📜 MIT License  
+MIT License
 
-© **2025 SRIJAN KUMAR**  
+Copyright (c) 2025 Srijan Kumar
 
-Permission is hereby granted, **free of charge**, to any person obtaining a copy  
-of this software and associated documentation files (the "Software"),  
-to **use, copy, modify, merge, publish, distribute, sublicense, and/or sell**  
-copies of the Software, under the following conditions:  
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## ✅ **Permissions**  
-✔️ Commercial use  
-✔️ Modification  
-✔️ Distribution  
-✔️ Private use  
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## ❌ **Restrictions**  
-⛔ Cannot hold the author liable for any issues  
-⛔ No warranty provided  
-
-## ⚖️ **Conditions**  
-1. 📌 **Include this license** in all copies or substantial portions of the Software.  
-2. 💡 **Give credit** to the original author when using this work.  
-
-## ⚠️ **Disclaimer**  
-🚨 **THE SOFTWARE IS PROVIDED "AS IS"** – without any warranty or guarantee.  
-💥 The authors are **not responsible** for any claims, damages, or liabilities.  
-  
----
-🔗 Learn more about the MIT License:  
-📄 [opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
-
-🚀 **Happy coding!**  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

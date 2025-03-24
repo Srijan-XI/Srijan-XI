@@ -30,7 +30,6 @@
 <a href="https://stackoverflow.com/users/23433781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23433781" height="30" width="40" /></a>
 <a href="https://fb.com/ankit.sah.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit.sah.11" height="30" width="40" /></a>
 <a href="https://instagram.com/srijan_sah_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan_sah_11" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/srijansah11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srijansah11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shreejansamsung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreejansamsung" height="30" width="40" /></a>
 </p>
 

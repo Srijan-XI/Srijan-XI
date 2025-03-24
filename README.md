@@ -1,6 +1,8 @@
 <h3 align="center">|| श्री गणेशाय नमः || </h3>
 <h1 align="center">Hi 👋, I'm Srijan Kumar </h1> 
-<h3 align="center">A passionate Developer from India</h3>
+<h2 align="center">A passionate Developer from India</h2>
+
+
 
 - 🔭 I’m currently working on [Project C++](https://github.com/srijan1110/Project-C-plus) And [Data-Structures-and-Algorithms](https://github.com/srijan1110/Data-Structures-and-Algorithms.git)
 

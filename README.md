@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Srijan Kumar </h1> 
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/srijan_sah_11" target="blank"><img src="https://img.shields.io/twitter/follow/srijan_sah_11?logo=twitter&style=for-the-badge" alt="srijan_sah_11" /></a> </p>
-
 - 🔭 I’m currently working on [Project C++](https://github.com/srijan1110/Project-C-plus) And [Data-Structures-and-Algorithms](https://github.com/srijan1110/Data-Structures-and-Algorithms.git)
 
 - 🌱 I’m currently learning **C++**

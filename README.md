@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **R and Go**
 
-- 👨‍💻 All of my projects are available at [https://github.com/srijan1110](https://github.com/srijan1110)
+- 👨‍💻 All of my projects are available at [https://github.com/Srijan-XI](https://github.com/Srijan-XI/Srijan-XI)
 
 - 📝 I regularly write articles on [New and Upcoming technology]
 

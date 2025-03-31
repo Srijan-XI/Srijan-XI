@@ -12,15 +12,15 @@
 
 - 🤝 I’m looking for help with **R and Go**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Srijan-XI](https://github.com/Srijan-XI/Srijan-XI)
+- 👨‍💻 All of my projects are available at [github.com/Srijan-XI](github.com/Srijan-XI/Srijan-XI)
 
-- 📝 I regularly write articles on [https://dev.to/srijan-xi](https://dev.to/srijan-xi)
+- 📝 I regularly write articles on [dev.to/srijan-xi](dev.to/srijan-xi)
 
 - 💬 Ask me about **C++,DSA**
 
 - 📫 How to reach me **srijansah11@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/srijan-xi/](https://www.linkedin.com/in/srijan-xi/)
+- 📄 Know about my experiences [www.linkedin.com/in/srijan-xi/](www.linkedin.com/in/srijan-xi/)
 
 - ⚡ Fun fact **Anime Lover**
 

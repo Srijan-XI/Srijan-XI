@@ -9,6 +9,11 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:

@@ -50,3 +50,8 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@SrijanKumar369) 
 
+ ### 🐍 GitHub Contribution Snake
+![snake gif](https://raw.githubusercontent.com/Srijan-XI/Srijan-XI/output/github-snake.svg)
+
+
+

@@ -2,25 +2,22 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once daily
-  workflow_dispatch:   # Allows manual execution
+    - cron: "0 0 * * *"  # Runs every day
+  workflow_dispatch:  # Allows manual execution
 
 jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
-        with:
-          ref: main
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: "YourGitHubUsername"
-          outputs: dist/github-snake.svg
+      - name: Generate Snake SVG
+        run: |
+          mkdir -p dist
+          curl -o dist/github-snake.svg "https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
 
-      - name: Push Snake Animation to Profile
+      - name: Upload the Snake SVG
         uses: actions/upload-artifact@v3
         with:
           name: snake-game

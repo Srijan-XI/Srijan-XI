@@ -14,13 +14,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Srijan-XI](https://github.com/Srijan-XI/Srijan-XI)
 
-- 📝 I regularly write articles on [New and Upcoming technology]
+- 📝 I regularly write articles on [https://dev.to/srijan-xi](https://dev.to/srijan-xi)
 
 - 💬 Ask me about **C++,DSA**
 
 - 📫 How to reach me **srijansah11@outlook.com**
 
-- ⚡ Fun fact **I don't know what i M**
+- 📄 Know about my experiences [https://www.linkedin.com/in/srijan-xi/](https://www.linkedin.com/in/srijan-xi/)
+
+- ⚡ Fun fact **Anime Lover**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

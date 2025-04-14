@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Srijan-XI](https://github.com/Srijan-XI/Srijan-XI)
  
-  - 📝 I regularly write articles on [https://dev.to/srijan-xi](https://dev.to/srijan-xi)
+- 📝 I regularly write articles on [https://dev.to/srijan-xi](https://dev.to/srijan-xi)
   
  - 💬 Ask me about **C++,DSA**
  

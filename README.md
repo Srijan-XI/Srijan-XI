@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Cybersecurity & Article Writing**
 
-- 👨‍💻 All of my projects are available at **https://github.com/Srijan-XI**
+- 👨‍💻 All of my projects are available at [https://github.com/Srijan-XI](https://github.com/Srijan-XI)
 
 - 📫 How to reach me [srijansah11@outlook.com](srijansah11@outlook.com)
 

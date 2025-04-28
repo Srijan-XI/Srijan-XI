@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-  ✍️ Sharing insights on Cybersecurity, AI/ML, Cloud, and Emerging Tech.  
+   Sharing insights on Cybersecurity, AI/ML, Cloud, and Emerging Tech.  
   Follow me to stay updated with thought leadership articles and tutorials! 🚀
 </p>
 

@@ -95,3 +95,7 @@
 ---------
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@SrijanKumar369) 
+
+<p align="center">
+  Created with ❤️ by <strong>Srijan</strong> for the 🌍 Community
+</p>

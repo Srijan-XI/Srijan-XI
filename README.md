@@ -14,13 +14,13 @@
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/srijan-xi)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/srijan-xi/](https://www.linkedin.com/in/srijan-xi/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/srijan-xi/)
 
 - 💬 Ask me about **Cybersecurity & Article Writing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Srijan-XI](https://github.com/Srijan-XI)
+- 👨‍💻 All of my projects are available at [@GitHub/Srijan-XI](https://github.com/Srijan-XI)
 
-- 📫 How to reach me [srijansah11@outlook.com](srijansah11@outlook.com)
+- 📫 How to reach me [Email](srijansah11@outlook.com)
 
 - ⚡ Fun fact **Anime Lover**
 

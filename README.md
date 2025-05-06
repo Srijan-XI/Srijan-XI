@@ -23,7 +23,7 @@
 - 📫 How to reach me [Email](srijansah11@outlook.com)
 
 - ⚡ Fun fact **Anime Lover**
-
+  <!---Connect with me ---> 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/srijan-xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srijan-xi" height="30" width="40" /></a>
@@ -33,37 +33,52 @@
 <a href="https://instagram.com/srijan_sah_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan_sah_11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/srijanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srijanx" height="30" width="40" /></a>
 </p>
-
+<!---Tech Stack --->
 <h2 align="left">💻 Tech Stack:</h2>
 <p align="center">
-
-<img src="https://img.shields.io/badge/Bash-2C8EBB?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge" />
-<img src="https://img.shields.io/badge/C-2A73B8?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
-<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-<img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-<img src="https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
- <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
-<img src="https://img.shields.io/badge/Git-E94E31?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
- <img src="https://img.shields.io/badge/Postman-E85833?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" />
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-
-
+<img align="top" alt="bash" width="50px" src="https://skillicons.dev/icons?i=bash" />
+  <img align="top" alt="c" width="50px" src="https://skillicons.dev/icons?i=c" />
+  <img align="top" alt="cpp" width="50px" src="https://skillicons.dev/icons?i=cpp" />
+  <img align="top" alt="python" width="50px" src="https://skillicons.dev/icons?i=python" />
+  <img align="top" alt="html" width="50px" src="https://skillicons.dev/icons?i=html" />
+  <img align="top" alt="css" width="50px" src="https://skillicons.dev/icons?i=css" />
+  <img align="top" alt="js" width="50px" src="https://skillicons.dev/icons?i=js" />
+  <img align="top" alt="nodejs" width="50px" src="https://skillicons.dev/icons?i=nodejs" />
+  <img align="top" alt="git" width="50px" src="https://skillicons.dev/icons?i=git" />
+  <img align="top" alt="postman" width="50px" src="https://skillicons.dev/icons?i=postman" />
+  <img align="top" alt="MySQL" width="50px" src="https://skillicons.dev/icons?i=mysql" />
+  <img align="top" alt="Figma" width="50px" src="https://skillicons.dev/icons?i=figma" />
+  <img align="top" alt="md" width="50px" src="https://skillicons.dev/icons?i=md" />
 </p>
+<!---Python Frameworks & Libraries--->
 
 ## 🐍 Python Frameworks & Libraries
-
 <p align="center">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" />
- <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge" />
- <img src="https://img.shields.io/badge/SciPy-0C4B8E?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy Badge" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=django,flask,matplotlib,numpy,pandas,pygame,scipy&theme=dark"
+  </a>
 </p>
 
+<!---Technologies--->
 
+## 🤖Technologies
+<p align="center">
+<div align="center">
+  <img align="top" alt="atom" width="50px" src="https://skillicons.dev/icons?i=atom" />
+  <img align="top" alt="devto" width="50px" src="https://skillicons.dev/icons?i=devto" />
+  <img align="top" alt="discord" width="50px" src="https://skillicons.dev/icons?i=discord" />
+  <img align="top" alt="eclipse" width="50px" src="https://skillicons.dev/icons?i=eclipse" />
+  <img align="top" alt="linux" width="50px" src="https://skillicons.dev/icons?i=linux" />
+  <img align="top" alt="mint" width="50px" src="https://skillicons.dev/icons?i=mint" />
+  <img align="top" alt="vercel" width="50px" src="https://skillicons.dev/icons?i=vercel" />
+  <img align="top" alt="vscode" width="50px" src="https://skillicons.dev/icons?i=vscode" />
+  <img align="top" alt="windows" width="50px" src="https://skillicons.dev/icons?i=windows" />
+  <img align="top" alt="wordpress" width="50px" src="https://skillicons.dev/icons?i=wordpress" />
+</div>
+</p>
+
+<!---Stats--->
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-XI&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

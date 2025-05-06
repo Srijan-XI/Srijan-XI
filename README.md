@@ -99,3 +99,4 @@
 <p align="center">
   Created with ❤️ by <strong>Srijan</strong> for the 🌍 Community
 </p>
+<a href="https://github.com/Srijan-XI"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>

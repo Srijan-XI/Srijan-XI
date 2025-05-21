@@ -52,7 +52,7 @@
 </p>
 <!---Python Frameworks & Libraries--->
 
-## 🐍 Python Frameworks & Libraries
+##  📚📦 Frameworks & Libraries
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img

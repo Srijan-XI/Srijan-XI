@@ -84,7 +84,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-XI&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+https://api.githubtrends.io/user/svg/Srijan-XI/langs?time_range=one_year&compact=True&theme=dark
 ------------
 ## 📖 Dev.to Profile
 <p align="center">

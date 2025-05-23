@@ -81,9 +81,18 @@
 <!---Stats--->
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-XI&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  
+ <a href="https://githubtrends.io">
+    <img src="https://api.githubtrends.io/user/svg/Srijan-XI/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark" alt="GitHub Trends" />
+  </a>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Srijan-XI/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
+  <!----------------------->
+  <a href="https://githubtrends.io">
+    <img src="https://api.githubtrends.io/user/svg/Srijan-XI/repos?time_range=one_year&theme=dark" alt="GitHub Trends" />
+  </a>
+</p>
+
 
 ------------
 ## 📖 Dev.to Profile

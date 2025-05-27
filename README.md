@@ -84,12 +84,12 @@
 <p align="center">
   
  <a href="https://githubtrends.io">
-    <img src="https://api.githubtrends.io/user/svg/Srijan-XI/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark" alt="GitHub Trends" />
+    <img src="https://api.githubtrends.io/user/svg/Srijan-XI/langs?time_range=one_year&use_percent=True&theme=dark" />
   </a>
 
   <!----------------------->
   <a href="https://githubtrends.io">
-    <img src="https://api.githubtrends.io/user/svg/Srijan-XI/repos?time_range=one_year&theme=dark" alt="GitHub Trends" />
+    <img src="https://api.githubtrends.io/user/svg/Srijan-XI/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
   </a>
 </p>
 

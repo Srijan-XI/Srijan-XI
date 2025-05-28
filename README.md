@@ -39,42 +39,52 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer" title="Bash">
     <img alt="Bash" width="50" src="https://skillicons.dev/icons?i=bash" style="vertical-align: top;" />
   </a>
+  
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer" title="C Language">
     <img alt="C" width="50" src="https://skillicons.dev/icons?i=c" style="vertical-align: top;" />
   </a>
+  
   <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" title="C++">
     <img alt="C++" width="50" src="https://skillicons.dev/icons?i=cpp" style="vertical-align: top;" />
   </a>
+  
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python">
     <img alt="Python" width="50" src="https://skillicons.dev/icons?i=python" style="vertical-align: top;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML">
     <img alt="HTML" width="50" src="https://skillicons.dev/icons?i=html" style="vertical-align: top;" />
   </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS">
     <img alt="CSS" width="50" src="https://skillicons.dev/icons?i=css" style="vertical-align: top;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript">
     <img alt="JavaScript" width="50" src="https://skillicons.dev/icons?i=js" style="vertical-align: top;" />
   </a>
+  
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="Node.js">
     <img alt="Node.js" width="50" src="https://skillicons.dev/icons?i=nodejs" style="vertical-align: top;" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git">
     <img alt="Git" width="50" src="https://skillicons.dev/icons?i=git" style="vertical-align: top;" />
   </a>
+  
   <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" title="Postman">
     <img alt="Postman" width="50" src="https://skillicons.dev/icons?i=postman" style="vertical-align: top;" />
   </a>
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL">
     <img alt="MySQL" width="50" src="https://skillicons.dev/icons?i=mysql" style="vertical-align: top;" />
   </a>
+  
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" title="Figma">
     <img alt="Figma" width="50" src="https://skillicons.dev/icons?i=figma" style="vertical-align: top;" />
   </a>
+  
   <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer" title="Markdown">
     <img alt="Markdown" width="50" src="https://skillicons.dev/icons?i=md" style="vertical-align: top;" />
   </a>
+  
 </p>
 
 <!---Python Frameworks & Libraries--->
@@ -91,36 +101,47 @@
 
 ## 🤖Technologies
 <p align="center">
+  
   <a href="https://flight-manual.atom.io/" target="_blank" rel="noopener noreferrer" title="Atom Editor">
     <img alt="Atom" width="50" src="https://skillicons.dev/icons?i=atom" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
   <a href="https://dev.to/" target="_blank" rel="noopener noreferrer" title="Dev.to">
     <img alt="Dev.to" width="50" src="https://skillicons.dev/icons?i=devto" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
   <a href="https://discord.com/" target="_blank" rel="noopener noreferrer" title="Discord">
     <img alt="Discord" width="50" src="https://skillicons.dev/icons?i=discord" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
   <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer" title="Eclipse IDE">
     <img alt="Eclipse" width="50" src="https://skillicons.dev/icons?i=eclipse" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" title="Linux">
     <img alt="Linux" width="50" src="https://skillicons.dev/icons?i=linux" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
   <a href="https://linuxmint.com/" target="_blank" rel="noopener noreferrer" title="Linux Mint">
     <img alt="Linux Mint" width="50" src="https://skillicons.dev/icons?i=mint" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
   <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer" title="Vercel">
     <img alt="Vercel" width="50" src="https://skillicons.dev/icons?i=vercel" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="Visual Studio Code">
     <img alt="VS Code" width="50" src="https://skillicons.dev/icons?i=vscode" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener noreferrer" title="Windows">
     <img alt="Windows" width="50" src="https://skillicons.dev/icons?i=windows" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
   <a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer" title="WordPress">
     <img alt="WordPress" width="50" src="https://skillicons.dev/icons?i=wordpress" style="vertical-align: top; margin: 0 5px;" />
   </a>
+  
 </p>
 
 

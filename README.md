@@ -91,10 +91,42 @@
 
 ##  📚📦 Frameworks & Libraries
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+
+  <a href="https://www.djangoproject.com/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=django,flask,matplotlib,numpy,pandas,pygame,scipy&theme=dark"
+      src="https://go-skill-icons.vercel.app/api/icons?i=django&theme=dark"
   </a>
+
+  <a href="https://flask.palletsprojects.com/en/stable/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark"
+  </a>
+
+<a href="https://matplotlib.org/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark"
+  </a>
+
+<a href="https://numpy.org/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark"
+  </a>
+
+  <a href="https://pandas.pydata.org/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark"
+  </a>
+
+   <a href="https://www.pygame.org/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=pygame&theme=dark"
+  </a>
+
+  <a href="https://scipy.org/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=scipy&theme=dark"
+  </a>
+  
 </p>
 
 <!---Technologies--->

@@ -185,17 +185,19 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  
- <a href="https://githubtrends.io">
-    <img src="https://api.githubtrends.io/user/svg/Srijan-XI/langs?time_range=one_year&use_percent=True&theme=dark" />
+
+ <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-XI&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+  <!-- Awesome GitHub Stats -->
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Srijan-XI?cardType=level-alternate&theme=chartreuse-dark&preferLogin=true" alt="My Awesome Stats" />
   </a>
 
-  <!----------------------->
-  <a href="https://githubtrends.io">
-    <img src="https://api.githubtrends.io/user/svg/Srijan-XI/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
-  </a>
+  <!-- GitHub Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Srijan-XI&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak Stats" />
+
 </p>
-
 
 ------------
 ## 📖 Dev.to Profile

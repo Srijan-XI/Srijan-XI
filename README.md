@@ -175,8 +175,10 @@
   </a>
   
 </p>
+<!---snake---->
+![Snake animation](https://github.com/Srijan-XI/Srijan-XI/blob/output/github-contribution-grid-snake-dark.svg)
 
-
+<!---end/---->
 <!---Stats--->
 # 📊 GitHub Stats:
 
@@ -225,7 +227,3 @@
   Created with ❤️ by <strong>Srijan</strong> for the 🌍 Community
 </p>
 <a href="https://github.com/Srijan-XI"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
-
-
-![Snake animation](https://github.com/Srijan-XI/Srijan-XI/blob/output/github-contribution-grid-snake-dark.svg)
-

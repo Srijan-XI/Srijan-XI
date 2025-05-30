@@ -227,4 +227,5 @@
 <a href="https://github.com/Srijan-XI"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
 
 
-![Snake animation](https://raw.githubusercontent.com/{Srijan-XI}/{Srijan-XI}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Srijan-XI/Srijan-XI/blob/output/github-contribution-grid-snake-dark.svg)
+

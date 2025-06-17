@@ -181,7 +181,8 @@
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://raw.githubusercontent.com/<Srijan-XI>/<Srijan-XI>/output1/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Srijan-XI/Srijan-XI/output1/github-contribution-grid-snake-dark.svg)
+
 
 
 

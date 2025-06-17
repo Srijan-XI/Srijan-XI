@@ -178,7 +178,10 @@
 
 
 <!---snake---->
-![Snake animation](https://github.com/Srijan-XI/Srijan-XI/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+<img src="https://raw.githubusercontent.com/Srijan-XI/Srijan-XI/output/snake.svg" alt="Snake animation" />
+
 
 <!---end/---->
 <!---Stats--->

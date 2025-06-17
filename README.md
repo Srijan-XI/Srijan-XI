@@ -179,7 +179,7 @@
 
 <!---snake---->
 
-<img src="https://raw.githubusercontent.com/Srijan-XI/Srijan-XI/output/snake.svg" alt="Snake animation" />
+
 
 
 
@@ -237,8 +237,4 @@
 <a href="https://github.com/Srijan-XI"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
 
 -------------------------------------
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srijan-XI/Srijan-XI/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srijan-XI/Srijan-XI/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Srijan-XI/Srijan-XI/output/pacman-contribution-graph.svg">
-</picture>
+

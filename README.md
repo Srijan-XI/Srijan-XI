@@ -179,8 +179,9 @@
 
 <!---snake---->
 
-
 <img src="https://raw.githubusercontent.com/Srijan-XI/Srijan-XI/output/snake.svg" alt="Snake animation" />
+
+
 
 
 <!---end/---->

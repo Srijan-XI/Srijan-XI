@@ -194,16 +194,14 @@
 <p align="center">
 
  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-XI&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  ![Srijan-XI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-XI&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
   <!-- Awesome GitHub Stats -->
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Srijan-XI?cardType=level-alternate&theme=chartreuse-dark&preferLogin=true" alt="My Awesome Stats" />
-  </a>
+  <!---- ![Srijan-XI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srijan-XI&theme=chartreuse-dark&hide_border=true) -->
 
   <!-- GitHub Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Srijan-XI&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak Stats" />
-
+  <!----![Srijan-XI's Stats](https://github-readme-stats.vercel.app/api?username=Srijan-XI&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)--->
+  
 </p>
 
 ------------

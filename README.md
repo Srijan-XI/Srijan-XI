@@ -35,6 +35,7 @@
 </p>
 <!---Tech Stack --->
 <h2 align="left">💻 Tech Stack:</h2>
+
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer" title="Bash">
     <img alt="Bash" width="50" src="https://skillicons.dev/icons?i=bash" style="vertical-align: top;" />

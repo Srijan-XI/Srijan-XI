@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **R and Go**
 
-- 📝 I regularly write articles on [Dev.to](https://dev.to/srijan-xi)
+- 📝 I regularly write articles on [Forem](https://forem.com/srijan-xi)
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/srijan-xi/)
 

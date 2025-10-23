@@ -4,7 +4,7 @@
 
 ----
 
-- 🔭 I’m currently working on **Srijanxi technologies private limited**.
+- 🔭 I’m currently working on **Srijanxi Technologies**.
 
 - 👯 I’m looking to collaborate on **AI and Machine Learning**
 

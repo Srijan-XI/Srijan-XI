@@ -1,30 +1,69 @@
 <h1 align="center">Hi 👋,I'm Srijan Kumar</h1>
 
 <h3 align="center">A Passionate Developer from India</h3>
+<h4 align="center">🔐 Engineer | Cybersecurity Sentinel | AI Builder</h4>
 
 ----
 
-- 🔭 I’m currently working on **Srijanxi Technologies**.
+I design and build **secure, intelligent systems that put people first**. As cyber threats evolve faster than traditional defenses, I focus on the real solution **integrating AI and Machine Learning with strong cybersecurity foundations** to create technology that is both **smart and resilient**.
 
-- 👯 I’m looking to collaborate on **AI and Machine Learning**
+🌊 Sailing the infinite seas of **AI**,🛡️ Defending the digital world through **Cybersecurity**,🧵 Weaving **tech stories**, and ⚙️ Forging creations in **C++ & Python**.
 
-- 🌱 I’m currently learning **Cybersecurity & Web Devlopment**
+---
 
-- 🤝 I’m looking for help with **R and Go**
+### 🔭 What I’m Working On
+- 🚀 Building **Srijanxi Technologies**
+- 🔐 Developing secure, AI-driven solutions
 
-- 📝 I regularly write articles on [Forem](https://forem.com/srijan-xi)
+---
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/srijan-xi/)
+### 👯 Open to Collaboration
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🛡️ **Cybersecurity-focused projects**
 
-- 💬 Ask me about **Cybersecurity & Article Writing**
+---
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Srijan-XI)
+### 🌱 Currently Learning
+- 🛡️ **Advanced Cybersecurity**
+- 🌐 **Web Development**
 
-- 📖 For all the practical code at [Codeberg](https://codeberg.org/srijanxi)
+---
 
-- 📫 How to reach me [Email](srijansah11@outlook.com)
+### 🤝 Looking for Help With
+- 📊 **R Programming**
+- ⚙️ **Go (Golang)**
 
-- ⚡ Fun fact **Anime Lover**
+---
+
+### 📝 Writing & Knowledge Sharing
+- ✍️ I regularly write technical articles on **Forem**  
+  👉 https://forem.com/srijan-xi
+- 💬 Ask me about **Cybersecurity** and **Technical Writing**
+
+---
+
+### 👨‍💻 Code & Projects
+- 🧠 **GitHub** (All Projects):  
+  👉 https://github.com/Srijan-XI
+- 📖 **Codeberg** (Practical Code):  
+  👉 https://codeberg.org/srijanxi
+
+---
+
+### 📄 Experience & Profile
+- 🔗 **LinkedIn**:  
+  👉 https://www.linkedin.com/in/srijan-xi/
+
+---
+
+### 📫 Reach Me
+- 📧 **Email**: srijansah11@outlook.com
+
+---
+
+### ⚡ Fun Fact
+- 🎌 **Anime Lover**
+
   <!---Connect with me ---> 
 <h2 align="left">Connect with me:</h2>
 <p align="left">

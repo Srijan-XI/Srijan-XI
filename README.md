@@ -36,28 +36,23 @@ I design and build **secure, intelligent systems that put people first**. As cyb
 ---
 
 ### 📝 Writing & Knowledge Sharing
-- ✍️ I regularly write technical articles on **Forem**  
-  👉 https://forem.com/srijan-xi
+- ✍️ I regularly write technical articles on [Forem](https://forem.com/srijan-xi)
 - 💬 Ask me about **Cybersecurity** and **Technical Writing**
 
 ---
 
 ### 👨‍💻 Code & Projects
-- 🧠 **GitHub** (All Projects):  
-  👉 https://github.com/Srijan-XI
-- 📖 **Codeberg** (Practical Code):  
-  👉 https://codeberg.org/srijanxi
+- 🧠 **GitHub** [All Projects](https://github.com/Srijan-XI)
+- 📖 **Codeberg** [Practical Code](https://codeberg.org/srijanxi)
 
 ---
 
 ### 📄 Experience & Profile
-- 🔗 **LinkedIn**:  
-  👉 https://www.linkedin.com/in/srijan-xi/
+- 🔗 **LinkedIn**: 👉 https://www.linkedin.com/in/srijan-xi/
 
 ---
 
-### 📫 Reach Me
-- 📧 **Email**: srijansah11@outlook.com
+### 📫 Reach Me 📧 **Email**: srijansah11@outlook.com
 
 ---
 
